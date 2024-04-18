@@ -1,2 +1,3 @@
 # TIL
-today i learned
+
+어떤 일이 있어도 하루에 1커밋 이상

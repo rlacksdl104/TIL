@@ -6,7 +6,7 @@ HTML link는 hyperlink를 의미하며 a(anchor) tag가 그 역할을 담당한�
 
 <!DOCTYPE html>
 <html>
-  <body>
+  <body> 
     <a href="http://www.google.com">Visit google.com!</a>
   </body>
 </html>

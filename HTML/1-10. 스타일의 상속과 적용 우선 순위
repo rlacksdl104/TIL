@@ -1,0 +1,27 @@
+상속 : 부모 요소에 적용된 프로퍼티를 하위 요소가 물려받는 것을 의미한다. 상속 기능이 없다면 각 요소의 프로퍼티라는것을 매번 지정해야한다
+-> 하지만 모든 프로퍼티가 상속이 되는것은 아니다 다음은 상속이 안되는 프로퍼티들과 되는 프로퍼티들을 정렬한 표다
+
+property	Inherit
+width/height	  no
+margin	        no
+padding	        no
+border	        no
+box-sizing	    no
+display	        no
+visibility	    yes
+opacity	        yes
+background	    no
+font	          yes
+color	          yes
+line-height	    yes
+text-align	    yes
+vertical-align	no
+text-decoration	no
+white-space	    yes
+position	      no
+top/right/bottom/left	no
+z-index	        no
+overflow	      no
+float	          no
+++
+상속되지 않는 경우(상속받지 않는 요소 또는 상속되지 않는 프로퍼티), **inherit** 키워드를 사용하여 명시적으로 상속받게 할 수 있다.
